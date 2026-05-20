@@ -1,0 +1,4 @@
+article{
+    background-image: linear-gradient(violet,indigo);
+    -webkit-background-clip: text;
+}
